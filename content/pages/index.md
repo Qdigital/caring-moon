@@ -170,6 +170,15 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
   - type: grid_section
     title: Partners
     subtitle: 2021 Supporters
